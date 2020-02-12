@@ -9,7 +9,7 @@ public class ArmstrngRange
 		
 		for(int i=1;i<=1000;i++)
 		{
-			int temp=i,count=0,temp1=i;
+			int temp=i,count=0,temp1=i,dev=0;
 			int num=i;
 			
 			while(temp>0)
